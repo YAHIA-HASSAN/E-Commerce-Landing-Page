@@ -1,0 +1,27 @@
+#footer{
+    height: 30%;
+    display: flex;
+    background: #EA0000;
+    color: #fff;
+    justify-content: space-between;
+    padding: 2%;
+}
+#footer div{
+    width: 25%;
+    height: inherit;
+}
+
+#footer img{
+    width: 30px;
+    height: 30px;
+}
+#footer h5{
+    height: fit-content;
+    font-size: 1.1rem;
+    margin-bottom: 5%;
+}
+#footer p{
+    font-size: .8rem;
+    font-weight: 100;
+    color: #e4e4e4;
+}
